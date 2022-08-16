@@ -1,7 +1,7 @@
 # Hi there! I'm Francisco de Assis Marinho Junior 😀
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marinho-junior-analise-dados/)](https://www.linkedin.com/in/afonsofeliciano/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marinho-junior-analise-dados/)](https://www.linkedin.com/in/marinho-junior-analise-dados/)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:fcoassismarinhojunior@gmail.com)](fcoassismarinhojunior@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5548991562339)](https://wa.me/5548991562339)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/dados-marinho-junior)](https://github.com/dados-marinho-junior)
