@@ -8,8 +8,7 @@
 
 ### Meu objetivo é uma requalificação profissional na área de tecnologia.
 
-![Francisco github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dados-marinho-junior&locale=pt-br&theme=tokyonight)
-![Francisco github stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior&show_icons=true&theme=radical))
 
 ## Atuação Profissional 
 
