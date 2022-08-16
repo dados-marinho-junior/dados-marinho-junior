@@ -1,0 +1,71 @@
+# Hi there! I'm Francisco de Assis Marinho Junior 😀
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marinho-junior-analise-dados/)](https://www.linkedin.com/in/afonsofeliciano/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:fcoassismarinhojunior@gmail.com)](fcoassismarinhojunior@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5548991562339)](https://wa.me/5548991562339)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/dados-marinho-junior)](https://github.com/dados-marinho-junior)
+
+### Meu objetivo é uma requalificação profissional na área de tecnologia.
+
+![Francisco github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dados-marinho-junior&locale=pt-br&theme=tokyonight)
+![Francisco github stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight)
+
+## Atuação Profissional 
+
+- Administrador em vários segmentos do varejo - (2006 - 2012)
+- Administrador gestão pública - (2012 - 2014)
+- Admistrador empresa própria - (2014 - 2021)
+
+
+
+## Formação
+- Pós-graduado em Sistemas da Qualidade em Administração, UERN-RN, campus de Mossoró. 
+- Graduação em Administração, UNP-RN, campus de Mossoró.
+- Formação Técnica em Analista de Dados Python, ENTRA21-SC, região grande Florianópolis.
+
+## Hard Skills:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite3](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://user-images.githubusercontent.com/104402499/184909582-e179abed-d8d3-4890-bd68-c9895636936d.png" height="15"/>
+
+
+- Bancos de Dados Relacionais: SQL Server , SQLite3, MySQL
+- Modelagem: Relacional
+- Ferramentas de Dataviz: Google Data Studio
+- Ferramentas de apoio: Excel, Git, Python para análise de dados
+
+## Soft Skills:
+- Capacidade de atuação em equipe 
+- Pensamento crítico
+- Autonomia e criatividade
+- Prazer em compartilhar conhecimento
+
+
+## Contatos: 
+
+> #### E-mail: fcoassismarinhojunior@gmail.com  
+> #### Cel./WhatsApp: (48) 9 9156-2339  
+> #### Linkedin: <a href="https://www.linkedin.com/in/marinho-junior-analise-dados/"> Francisco de Assis Marinho Junior </a> 
+> #### GitHub: <a href="https://github.com/dados-marinho-junior"> github.com/dados-marinho-junior </a>
+
+
+<!--
+**dados-marinho-junior/dados-marinho-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
