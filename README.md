@@ -2,8 +2,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marinho-junior-analise-dados/)](https://www.linkedin.com/in/marinho-junior-analise-dados/)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5548991562339)](https://wa.me/5548991562339)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/dados-marinho-junior)](https://github.com/dados-marinho-junior)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5548991562339)](https://wa.me/5548991562339)
+
 
 ### Meu objetivo é uma requalificação profissional na área de tecnologia.
 
