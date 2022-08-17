@@ -33,7 +33,7 @@
 <img src="https://user-images.githubusercontent.com/104402499/184909582-e179abed-d8d3-4890-bd68-c9895636936d.png" height="15"/>
 
 
-- Bancos de Dados Relacionais: SQL Server , SQLite3, MySQL
+- Bancos de Dados Relacionais: SQLite3, MySQL
 - Modelagem: Relacional
 - Ferramentas de Dataviz: Google Data Studio
 - Ferramentas de apoio: Excel, Git, Python para análise de dados
@@ -41,7 +41,8 @@
 ## Soft Skills:
 - Capacidade de atuação em equipe 
 - Pensamento crítico
-- Autonomia e criatividade
+- Criatividade
+- Autodidata 
 - Prazer em compartilhar conhecimento
 
 
