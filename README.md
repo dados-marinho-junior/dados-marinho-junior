@@ -8,8 +8,6 @@
 
 ### Meu objetivo é uma requalificação profissional na área de tecnologia.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior&show_icons=true&theme=radical))
-
 ## Atuação Profissional 
 
 - Administrador em vários segmentos do varejo - (2006 - 2012)
@@ -53,6 +51,7 @@
 > #### Linkedin: <a href="https://www.linkedin.com/in/marinho-junior-analise-dados/"> Francisco de Assis Marinho Junior </a> 
 > #### GitHub: <a href="https://github.com/dados-marinho-junior"> github.com/dados-marinho-junior </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior&show_icons=true&theme=radical))
 
 <!--
 **dados-marinho-junior/dados-marinho-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
