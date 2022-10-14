@@ -52,7 +52,7 @@
 > #### GitHub: <a href="https://github.com/dados-marinho-junior"> github.com/dados-marinho-junior </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior&count_private=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dados-marinho-junior&repo=github-readme-stats)](https://github.com/dados-marinho-junior/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dados-marinho-junior&repo=github-readme-stats)](https://github.com/dados-marinho-junior/dados-marinho-junior/github-readme-stats)
 
 <!--
 **dados-marinho-junior/dados-marinho-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
