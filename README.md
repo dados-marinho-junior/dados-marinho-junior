@@ -53,7 +53,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior&count_private=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=projeto-analise-microdados-enem2021)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dados-marinho-junior&repo=dados-marinho-junior)
 
 <!--
 **dados-marinho-junior/dados-marinho-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
