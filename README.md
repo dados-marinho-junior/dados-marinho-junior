@@ -51,7 +51,7 @@
 > #### Linkedin: <a href="https://www.linkedin.com/in/marinho-junior-analise-dados/"> Francisco de Assis Marinho Junior </a> 
 > #### GitHub: <a href="https://github.com/dados-marinho-junior"> github.com/dados-marinho-junior </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior/projeto-analise-microdados-enem2021&count_private=true)
 
 <!--
 **dados-marinho-junior/dados-marinho-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
