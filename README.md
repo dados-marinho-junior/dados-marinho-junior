@@ -53,7 +53,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dados-marinho-junior&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dados-marinho-junior&layout=compact)](https://github.com/dados-marinho-junior/dados-marinho-junior/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dados-marinho-junior)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dados-marinho-junior/dados-marinho-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
