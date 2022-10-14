@@ -51,7 +51,7 @@
 > #### Linkedin: <a href="https://www.linkedin.com/in/marinho-junior-analise-dados/"> Francisco de Assis Marinho Junior </a> 
 > #### GitHub: <a href="https://github.com/dados-marinho-junior"> github.com/dados-marinho-junior </a>
 
-[![dados-marinho-junior wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dados-marinho-junior)](https://github.com/anuraghazra/github-readme-stats)
+[![dados-marinho-junior wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dados-marinho-junior)](https://github.com/dados-marinho-junior/github-readme-stats)
 
 <!--
 **dados-marinho-junior/dados-marinho-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
